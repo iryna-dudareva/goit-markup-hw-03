@@ -104,7 +104,6 @@ img{
   display: flex;
   gap: 76px;
   align-items: center;
-  padding: 24px 0;
 }
 
 .navigation-list{
@@ -119,6 +118,8 @@ img{
     font-weight: 500;
     text-decoration: none;
     color: #2E2F42;
+    padding-top: 24px;
+    padding-bottom: 24px;
  }
  .nav-link:hover, 
  .nav-link:focus{
